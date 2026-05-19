@@ -1,4 +1,4 @@
-oh Hi!
+Oh Hi!
 I'm Filipe.
 
 Welcome to my GitHub profile! I'm a passionate front-end developer currently diving into the exciting world of web development. My journey began with learning the fundamentals: 
