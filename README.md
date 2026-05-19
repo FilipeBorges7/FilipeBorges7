@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer currently div
 
 With these skills, I've built a variety of projects that have fueled my enthusiasm for creating engaging web experiences.
 
+
 Right now, I'm focused on expanding my expertise by exploring backend development. I'm also diving into React, which has opened up new possibilities for building dynamic user interfaces. I love the challenge of combining front-end and back-end technologies to create seamless applications.
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or just chat about web development!
